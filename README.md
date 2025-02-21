@@ -1,2 +1,2 @@
 # middelware123
-learning repo
+ this is my new project of linked list
